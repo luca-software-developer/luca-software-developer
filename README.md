@@ -4,11 +4,11 @@
 💻<i>Software</i>, 📱<i>App</i>, 🎮<i>Game</i> <i>&</i> 🌐<i>Web Developer</i>
 
 <i>I am knowledgeable about many different programming languages, frameworks and technologies and use them to
-    create software, apps, games and websites and more.</i>
+    create software, apps, games, websites and more.</i>
 
-- 🔭 I’m currently working on my latest <b><i>iOS</i> mobile app</b>
-- 💬 Ask me about programming & Software Engineering
-- 😄 Pronouns: he/him
+- 🔭 **I’m currently working on** my latest <b><i>iOS</i> mobile app</b>
+- 💬 **Ask me about** Software Development & Engineering
+- 😄 **Pronouns**: he/him
 
 <i>Below you can find some of the programming languages, frameworks and technologies in which I have the most
     experience.</i>
