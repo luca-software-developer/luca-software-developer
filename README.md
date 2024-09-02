@@ -17,7 +17,7 @@
 - 👀 <i>I’m looking to collaborate on </i>✨<i>innovative</i>✨<i> software projects</i>
 - 💬 <i>Ask me about </i>👨🏻‍💻<i>Software Development & </i>⚙️<i>Engineering</i>
 - 😄 <i>Pronouns: he/him</i>
-- ⚡ <i>Fun fact: `NaN` means **N**ot **a** **N**umber but, according to JavaScript, `typeof(NaN) === 'number'`</i>
+- ⚡ <i>Fun fact: `NaN` means **N**ot **a** **N**umber but, according to JavaScript, </i>`typeof(NaN) === 'number'`
 
 <i>Below you can find some of the programming languages, frameworks and technologies in which I have the most
     experience.</i>
