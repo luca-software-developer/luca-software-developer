@@ -1,14 +1,23 @@
-## Hi there 👋
+## 👋 Hi there
+<i>Let me introduce myself, I am...</i>
 
 👨🏻‍💻<b>luca-software-developer</b><br />
 💻<i>Software</i>, 📱<i>App</i>, 🎮<i>Game</i> <i>&</i> 🌐<i>Web Developer</i>
 
+### ⚙️ Technical skills
 <i>I am knowledgeable about many different programming languages, frameworks and technologies and use them to
-    create software, apps, games, websites and more.</i>
+    create </i>💻<i>desktop programs, </i>📱<i>apps, </i>🎮<i>games, </i>🌐<i>websites and more.</i>
 
-- 🔭 **I’m currently working on** my latest <b><i>iOS</i> mobile app</b>
-- 💬 **Ask me about** Software Development & Engineering
-- 😄 **Pronouns**: he/him
+### 👀 Fields of interest
+<i>I am interested in different fields of IT (Information Technology) ranging from </i>👨🏻‍💻<i>programming to </i>🤖<i>robotics,
+    </i>🧠<i>Artificial Intelligence (AI), </i>🛜<i>Computer Networking and </i>🔐<i>Cybersecurity.</i>
+
+### 👨🏻‍💻 About me
+- 🔭 I’m currently working on my _latest_ 🍎<b><i>iOS</i> mobile app</b>
+- 👀 I’m looking to collaborate on ✨innovative✨ software projects
+- 💬 Ask me about 👨🏻‍💻<i>Software Development</i> & ⚙️<i>Engineering</i>
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: `NaN` means _**N**ot **a** **N**umber_ but, according to _JavaScript_, `typeof(NaN) === 'number'`
 
 <i>Below you can find some of the programming languages, frameworks and technologies in which I have the most
     experience.</i>
