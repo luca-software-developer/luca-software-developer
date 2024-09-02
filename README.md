@@ -13,11 +13,11 @@
     </i>🧠<i>Artificial Intelligence (AI), </i>🛜<i>Computer Networking and </i>🔐<i>Cybersecurity.</i>
 
 ### 👨🏻‍💻 About me
-- 🔭 I’m currently working on my _latest_ 🍎<b><i>iOS</i> mobile app</b>
-- 👀 I’m looking to collaborate on ✨innovative✨ software projects
-- 💬 Ask me about 👨🏻‍💻<i>Software Development</i> & ⚙️<i>Engineering</i>
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: `NaN` means _**N**ot **a** **N**umber_ but, according to _JavaScript_, `typeof(NaN) === 'number'`
+- 🔭 <i>I’m currently working on my latest </i>🍎<i><b>iOS mobile app</b></i>
+- 👀 <i>I’m looking to collaborate on </i>✨<i>innovative</i>✨<i> software projects</i>
+- 💬 <i>Ask me about </i>👨🏻‍💻<i>Software Development & </i>⚙️<i>Engineering</i>
+- 😄 <i>Pronouns: he/him</i>
+- ⚡ <i>Fun fact: `NaN` means **N**ot **a** **N**umber but, according to JavaScript, `typeof(NaN) === 'number'`</i>
 
 <i>Below you can find some of the programming languages, frameworks and technologies in which I have the most
     experience.</i>
