@@ -6,7 +6,7 @@
 
 ### ⚙️ Technical skills
 <i>I am knowledgeable about many different programming languages, frameworks and technologies and use them to
-    create </i>💻<i>desktop programs, </i>📱<i>apps, </i>🎮<i>games, </i>🌐<i>websites and more.</i>
+    create </i>💻<i>desktop programs, </i>⚙️<i>tools, </i>📱<i>apps, </i>🎮<i>games, </i>🌐<i>websites and more.</i>
 
 ### 👀 Fields of interest
 <i>I am interested in different fields of IT (Information Technology) ranging from </i>👨🏻‍💻<i>programming to </i>🤖<i>robotics,
