@@ -1,5 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="185" viewBox="0 0 600 185">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="265" viewBox="-40 -40 680 265">
   <defs>
+    <style>
+      @keyframes windowOpen {
+        0% {
+          transform: scale(0.6);
+          opacity: 0;
+        }
+        70% {
+          transform: scale(1.03);
+          opacity: 1;
+        }
+        100% {
+          transform: scale(1);
+          opacity: 1;
+        }
+      }
+      .terminal-window {
+        animation: windowOpen 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        transform-origin: 300px 92.5px;
+      }
+    </style>
+
     <clipPath id="cmd1">
       <rect x="32" y="38" width="0" height="22">
         <animate attributeName="width" calcMode="discrete"
@@ -16,55 +37,80 @@
           dur="1.5s" begin="2s" fill="freeze" />
       </rect>
     </clipPath>
+
+    <filter id="shadow" x="-20%" y="-15%" width="145%" height="155%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="12" result="blur"/>
+      <feOffset in="blur" dx="0" dy="6" result="shifted"/>
+      <feFlood flood-color="#000" flood-opacity="0.45" result="color"/>
+      <feComposite in="color" in2="shifted" operator="in" result="shadow"/>
+      <feMerge>
+        <feMergeNode in="shadow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="0.6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
-  <rect width="600" height="185" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
-  <rect width="600" height="32" rx="8" fill="#161b22" />
-  <rect y="8" width="600" height="24" fill="#161b22" />
-  <circle cx="18" cy="16" r="5.5" fill="#ff5f56" />
-  <circle cx="36" cy="16" r="5.5" fill="#ffbd2e" />
-  <circle cx="54" cy="16" r="5.5" fill="#27c93f" />
-  <text x="300" y="20" text-anchor="middle" fill="#8b949e"
-    font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="12">terminal</text>
+  <g class="terminal-window" filter="url(#shadow)">
+    <rect width="600" height="185" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+    <rect width="600" height="32" rx="8" fill="#161b22" />
+    <rect y="8" width="600" height="24" fill="#161b22" />
+    <circle cx="18" cy="16" r="5.5" fill="#ff5f56" />
+    <circle cx="36" cy="16" r="5.5" fill="#ffbd2e" />
+    <circle cx="54" cy="16" r="5.5" fill="#27c93f" />
+    <text x="300" y="20" text-anchor="middle" fill="#8b949e"
+      font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="12">terminal</text>
 
-  <text x="15" y="55" fill="#79C0FF" font-family="'SF Mono','Fira Code','Courier New',monospace"
-    font-size="14">$ </text>
-  <text clip-path="url(#cmd1)" x="32" y="55"
-    font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="14">
-    <tspan fill="#F0F6FC">whoami<animate attributeName="fill" to="#7EE787" dur="0.001s"
-        begin="1.15s" fill="freeze" /></tspan>
-  </text>
+    <g filter="url(#glow)">
+      <text x="15" y="55" fill="#79C0FF" font-family="'SF Mono','Fira Code','Courier New',monospace"
+        font-size="14">$ </text>
+      <text clip-path="url(#cmd1)" x="32" y="55"
+        font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="14" opacity="0">
+        <tspan fill="#F0F6FC">whoami<animate attributeName="fill" to="#7EE787" dur="0.001s"
+            begin="1.15s" fill="freeze" /></tspan>
+        <animate attributeName="opacity" from="0" to="1" dur="0.001s" begin="0.3s" fill="freeze" />
+      </text>
 
-  <text x="15" y="77" fill="#C9D1D9" font-family="'SF Mono','Fira Code','Courier New',monospace"
-    font-size="14" opacity="0">luca-software-developer<animate attributeName="opacity" from="0"
-      to="1" dur="0.001s" begin="1.6s" fill="freeze" /></text>
+      <text x="15" y="77" fill="#C9D1D9" font-family="'SF Mono','Fira Code','Courier New',monospace"
+        font-size="14" opacity="0">luca-software-developer<animate attributeName="opacity" from="0"
+          to="1" dur="0.001s" begin="1.6s" fill="freeze" /></text>
 
-  <text x="15" y="105" fill="#79C0FF" font-family="'SF Mono','Fira Code','Courier New',monospace"
-    font-size="14" opacity="0">$ <animate attributeName="opacity" from="0" to="1" dur="0.001s"
-      begin="1.6s" fill="freeze" /></text>
-  <text clip-path="url(#cmd2)" x="32" y="105"
-    font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="14">
-    <tspan fill="#F0F6FC">cat<animate attributeName="fill" to="#7EE787" dur="0.001s" begin="2.3s"
-        fill="freeze" /></tspan>
-    <tspan fill="#F0F6FC"> role.txt</tspan>
-  </text>
+      <text x="15" y="105" fill="#79C0FF" font-family="'SF Mono','Fira Code','Courier New',monospace"
+        font-size="14" opacity="0">$ <animate attributeName="opacity" from="0" to="1" dur="0.001s"
+          begin="1.6s" fill="freeze" /></text>
+      <text clip-path="url(#cmd2)" x="32" y="105"
+        font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="14" opacity="0">
+        <tspan fill="#F0F6FC">cat<animate attributeName="fill" to="#7EE787" dur="0.001s" begin="2.3s"
+            fill="freeze" /></tspan>
+        <tspan fill="#F0F6FC"> role.txt</tspan>
+        <animate attributeName="opacity" from="0" to="1" dur="0.001s" begin="2s" fill="freeze" />
+      </text>
 
-  <text x="15" y="127" fill="#C9D1D9" font-family="'SF Mono','Fira Code','Courier New',monospace"
-    font-size="14" opacity="0">Software, App, Game &amp; Web Developer<animate
-      attributeName="opacity" from="0" to="1" dur="0.001s" begin="3.8s" fill="freeze" /></text>
-  <text x="15" y="149" fill="#C9D1D9" font-family="'SF Mono','Fira Code','Courier New',monospace"
-    font-size="14" opacity="0">DevSecOps Engineer<animate attributeName="opacity" from="0" to="1"
-      dur="0.001s" begin="3.8s" fill="freeze" /></text>
+      <text x="15" y="127" fill="#C9D1D9" font-family="'SF Mono','Fira Code','Courier New',monospace"
+        font-size="14" opacity="0">Software, App, Game &amp; Web Developer<animate
+          attributeName="opacity" from="0" to="1" dur="0.001s" begin="3.8s" fill="freeze" /></text>
+      <text x="15" y="149" fill="#C9D1D9" font-family="'SF Mono','Fira Code','Courier New',monospace"
+        font-size="14" opacity="0">DevSecOps Engineer<animate attributeName="opacity" from="0" to="1"
+          dur="0.001s" begin="3.8s" fill="freeze" /></text>
+    </g>
 
-  <rect x="32" y="42" width="2" height="18" fill="#79C0FF">
-    <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite" />
-    <animate attributeName="x" calcMode="discrete"
-      values="32;41;49;58;66;74;83;32;32;41;49;58;66;74;83;91;99;108;116;125;133;15"
-      keyTimes="0;0.089;0.122;0.151;0.182;0.222;0.256;0.356;0.444;0.464;0.488;0.511;0.544;0.568;0.591;0.611;0.634;0.658;0.694;0.721;0.751;0.844"
-      dur="4.5s" fill="freeze" />
-    <animate attributeName="y" calcMode="discrete"
-      values="42;92;158"
-      keyTimes="0;0.356;0.844"
-      dur="4.5s" fill="freeze" />
-  </rect>
+    <rect x="32" y="42" width="2" height="18" fill="#F0F6FC">
+      <animate attributeName="opacity" values="1;0" calcMode="discrete" dur="1s" repeatCount="indefinite" />
+      <animate attributeName="x" calcMode="discrete"
+        values="32;41;49;58;66;74;83;32;32;41;49;58;66;74;83;91;99;108;116;125;133;15"
+        keyTimes="0;0.089;0.122;0.151;0.182;0.222;0.256;0.356;0.444;0.464;0.488;0.511;0.544;0.568;0.591;0.611;0.634;0.658;0.694;0.721;0.751;0.844"
+        dur="4.5s" fill="freeze" />
+      <animate attributeName="y" calcMode="discrete"
+        values="42;92;158"
+        keyTimes="0;0.356;0.844"
+        dur="4.5s" fill="freeze" />
+    </rect>
+  </g>
 </svg>
