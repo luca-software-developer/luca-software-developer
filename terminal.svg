@@ -49,13 +49,6 @@
       </feMerge>
     </filter>
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="0.6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
   <g class="terminal-window" filter="url(#shadow)">
@@ -68,7 +61,7 @@
     <text x="300" y="20" text-anchor="middle" fill="#8b949e"
       font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="12">terminal</text>
 
-    <g filter="url(#glow)">
+    <g>
       <text x="15" y="55" fill="#79C0FF" font-family="'SF Mono','Fira Code','Courier New',monospace"
         font-size="14">$ </text>
       <text clip-path="url(#cmd1)" x="32" y="55"
