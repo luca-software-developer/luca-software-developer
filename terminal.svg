@@ -29,8 +29,11 @@
 
   <text x="15" y="55" fill="#79C0FF" font-family="'SF Mono','Fira Code','Courier New',monospace"
     font-size="14">$ </text>
-  <text clip-path="url(#cmd1)" x="32" y="55" fill="#F0F6FC"
-    font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="14">whoami</text>
+  <text clip-path="url(#cmd1)" x="32" y="55"
+    font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="14">
+    <tspan fill="#F0F6FC">whoami<animate attributeName="fill" to="#7EE787" dur="0.001s"
+        begin="1.15s" fill="freeze" /></tspan>
+  </text>
 
   <text x="15" y="77" fill="#C9D1D9" font-family="'SF Mono','Fira Code','Courier New',monospace"
     font-size="14" opacity="0">luca-software-developer<animate attributeName="opacity" from="0"
@@ -39,8 +42,12 @@
   <text x="15" y="105" fill="#79C0FF" font-family="'SF Mono','Fira Code','Courier New',monospace"
     font-size="14" opacity="0">$ <animate attributeName="opacity" from="0" to="1" dur="0.001s"
       begin="1.6s" fill="freeze" /></text>
-  <text clip-path="url(#cmd2)" x="32" y="105" fill="#F0F6FC"
-    font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="14">cat role.txt</text>
+  <text clip-path="url(#cmd2)" x="32" y="105"
+    font-family="'SF Mono','Fira Code','Courier New',monospace" font-size="14">
+    <tspan fill="#F0F6FC">cat<animate attributeName="fill" to="#7EE787" dur="0.001s" begin="2.3s"
+        fill="freeze" /></tspan>
+    <tspan fill="#F0F6FC"> role.txt</tspan>
+  </text>
 
   <text x="15" y="127" fill="#C9D1D9" font-family="'SF Mono','Fira Code','Courier New',monospace"
     font-size="14" opacity="0">Software, App, Game &amp; Web Developer<animate
