@@ -4,16 +4,19 @@
       @keyframes windowOpen {
         0% {
           transform: scale(0.6);
+          opacity: 0;
         }
         70% {
           transform: scale(1.03);
+          opacity: 1;
         }
         100% {
           transform: scale(1);
+          opacity: 1;
         }
       }
       .terminal-window {
-        animation: windowOpen 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        animation: windowOpen 0.8s cubic-bezier(0.16, 1, 0.3, 1) 0.4s both;
         transform-origin: 300px 92.5px;
       }
     </style>
@@ -54,8 +57,6 @@
       </feMerge>
     </filter>
   </defs>
-
-  <rect x="-40" y="-40" width="680" height="265" fill="transparent" />
 
   <g class="terminal-window" filter="url(#shadow)">
     <rect width="600" height="185" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
