@@ -55,6 +55,8 @@
     </filter>
   </defs>
 
+  <rect x="-40" y="-40" width="680" height="265" fill="transparent" />
+
   <g class="terminal-window" filter="url(#shadow)">
     <rect width="600" height="185" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
     <rect width="600" height="32" rx="8" fill="#161b22" />
