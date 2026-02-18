@@ -2,7 +2,7 @@
 <i>Let me introduce myself, I am...</i>
 
 <p>
-    <img src="terminal.svg" alt="Terminal" />
+    <img src="terminal.svg" alt="Terminal" width="680" height="265" />
 </p>
 
 ### About me
