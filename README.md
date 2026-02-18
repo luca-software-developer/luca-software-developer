@@ -39,9 +39,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
             width="36" height="36" alt="Python" /></a> <a href="https://www.rust-lang.org/" target="_blank"
         rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg#gh-light-mode-only"
-            width="36" height="36" alt="Rust" /><img
-            src="https://cdn.simpleicons.org/rust/CCCCCC#gh-dark-mode-only"
+            src="https://cdn.simpleicons.org/rust/8B949E"
             width="36" height="36" alt="Rust" /></a> <a href="https://developer.apple.com/swift/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg"
@@ -101,9 +99,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
             width="36" height="36" alt="MongoDB" /></a> <a href="https://neo4j.com/" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original.svg#gh-light-mode-only"
-            width="36" height="36" alt="Neo4j" /><img
-            src="https://cdn.simpleicons.org/neo4j/CCCCCC#gh-dark-mode-only"
+            src="https://cdn.simpleicons.org/neo4j/8B949E"
             width="36" height="36" alt="Neo4j" /></a>
 </p>
 
@@ -145,9 +141,7 @@
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
             width="36" height="36" alt="HTML5" /></a> <a href="https://unity.com/" target="_blank" rel="noreferrer"><img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg#gh-light-mode-only"
-            width="36" height="36" alt="Unity" /><img
-            src="https://cdn.simpleicons.org/unity/CCCCCC#gh-dark-mode-only"
+            src="https://cdn.simpleicons.org/unity/8B949E"
             width="36" height="36" alt="Unity" /></a>
 </p>
 
@@ -158,9 +152,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
             width="36" height="36" alt="Ethereum" /></a> <a href="https://soliditylang.org/" target="_blank"
         rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg#gh-light-mode-only"
-            width="36" height="36" alt="Solidity" /><img
-            src="https://cdn.simpleicons.org/solidity/CCCCCC#gh-dark-mode-only"
+            src="https://cdn.simpleicons.org/solidity/8B949E"
             width="36" height="36" alt="Solidity" /></a>
 </p>
 
@@ -171,9 +163,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg"
             width="36" height="36" alt="Arduino" /></a> <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/stmicroelectronics/03234B#gh-light-mode-only"
-            width="36" height="36" alt="STM32" /><img
-            src="https://cdn.simpleicons.org/stmicroelectronics/CCCCCC#gh-dark-mode-only"
+            src="https://cdn.simpleicons.org/stmicroelectronics/8B949E"
             width="36" height="36" alt="STM32" /></a>
 </p>
 
@@ -184,17 +174,13 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
             width="36" height="36" alt="Windows" /></a> <a href="https://www.apple.com/macos" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg#gh-light-mode-only"
-            width="36" height="36" alt="macOS" /><img
-            src="https://cdn.simpleicons.org/apple/CCCCCC#gh-dark-mode-only"
+            src="https://cdn.simpleicons.org/apple/8B949E"
             width="36" height="36" alt="macOS" /></a> <a href="https://www.linux.org/" target="_blank"
         rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
             width="36" height="36" alt="Linux" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg#gh-light-mode-only"
-            width="36" height="36" alt="Bash" /><img
-            src="https://cdn.simpleicons.org/gnubash/CCCCCC#gh-dark-mode-only"
+            src="https://cdn.simpleicons.org/gnubash/8B949E"
             width="36" height="36" alt="Bash" /></a>
 </p>
 
@@ -231,17 +217,13 @@
 
 <p align="left">
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/kalilinux/557C94#gh-light-mode-only"
-            width="36" height="36" alt="Kali Linux" /><img
-            src="https://cdn.simpleicons.org/kalilinux/CCCCCC#gh-dark-mode-only"
+            src="https://cdn.simpleicons.org/kalilinux/8B949E"
             width="36" height="36" alt="Kali Linux" /></a> <a href="https://www.wireshark.org/" target="_blank"
         rel="noreferrer"><img
             src="https://cdn.simpleicons.org/wireshark/1679A7"
             width="36" height="36" alt="Wireshark" /></a> <a href="https://owasp.org/" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/owasp/000000#gh-light-mode-only"
-            width="36" height="36" alt="OWASP" /><img
-            src="https://cdn.simpleicons.org/owasp/CCCCCC#gh-dark-mode-only"
+            src="https://cdn.simpleicons.org/owasp/8B949E"
             width="36" height="36" alt="OWASP" /></a> <a href="https://portswigger.net/burp" target="_blank"
         rel="noreferrer"><img
             src="https://cdn.simpleicons.org/burpsuite/FF6633"
