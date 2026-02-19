@@ -1,8 +1,7 @@
 ## 👋 Hi there
-<i>Let me introduce myself, I am...</i>
 
-<p>
-    <img src="terminal.svg" alt="Terminal" width="680" height="265" />
+<p align="center">
+    <a href="#"><img src="terminal.svg" alt="Terminal" width="840" height="265" /></a>
 </p>
 
 ### About me
