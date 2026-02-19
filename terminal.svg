@@ -86,7 +86,7 @@
         font-size="14" opacity="0">Software Engineering + Cybersecurity<animate
           attributeName="opacity" from="0" to="1" dur="0.001s" begin="4.1s" fill="freeze" /></text>
       <text x="15" y="149" fill="#C9D1D9" font-family="'SF Mono','Fira Code','Courier New',monospace"
-        font-size="14" opacity="0">Software, App, Game &amp; Web Developer<animate attributeName="opacity" from="0" to="1"
+        font-size="14" opacity="0">Desktop, App, Game &amp; Web Developer<animate attributeName="opacity" from="0" to="1"
           dur="0.001s" begin="4.1s" fill="freeze" /></text>
     </g>
 
