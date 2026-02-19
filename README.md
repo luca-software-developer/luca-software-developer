@@ -10,6 +10,7 @@
 - 🍎 Help Teacher @ Swift App Development Bootcamp
 - 🧭 Tech Lead across multiple development teams
 - 🏆 1st place & Software Quality Award @ RobotCup@School 2021
+- 🏆 1st place @ Machine Learning Competition — Binary Gender Classifier (99.50% Accuracy)
 - 🔭 Currently building security tools, apps & scalable platforms
 - 💬 Ask me about **⚙️ Software Engineering & 🔐 Cybersecurity**
 
