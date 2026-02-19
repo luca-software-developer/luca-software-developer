@@ -5,9 +5,13 @@
 </p>
 
 ### About me
-- 🔭 I'm currently working on my latest **security tool**
-- 👀 I'm looking to collaborate on innovative software projects
-- 💬 Ask me about **Software Engineering & Cybersecurity**
+- 🎓 Computer Engineer — BSc with Honours (110L) @ University of Salerno
+- 🔬 Research Fellow @ CORE Lab (DIEM) — Hypergraph robustness analysis
+- 🍎 Help Teacher @ Swift App Development Bootcamp
+- 🧭 Tech Lead across multiple development teams
+- 🏆 1st place & Software Quality Award @ RobotCup@School 2021
+- 🔭 Currently building security tools, apps & scalable platforms
+- 💬 Ask me about **⚙️ Software Engineering & 🔐 Cybersecurity**
 
 ### Programming Languages
 
