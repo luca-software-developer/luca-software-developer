@@ -43,7 +43,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
             width="36" height="36" alt="Python" /></a> <a href="https://www.rust-lang.org/" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/rust/8B949E"
+            src="https://cdn.simpleicons.org/rust/1f2328/e6edf3"
             width="36" height="36" alt="Rust" /></a> <a href="https://developer.apple.com/swift/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg"
@@ -103,7 +103,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
             width="36" height="36" alt="MongoDB" /></a> <a href="https://neo4j.com/" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/neo4j/8B949E"
+            src="https://cdn.simpleicons.org/neo4j/1f2328/e6edf3"
             width="36" height="36" alt="Neo4j" /></a>
 </p>
 
@@ -145,18 +145,18 @@
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
             width="36" height="36" alt="HTML5" /></a> <a href="https://unity.com/" target="_blank" rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/unity/8B949E"
+            src="https://cdn.simpleicons.org/unity/1f2328/e6edf3"
             width="36" height="36" alt="Unity" /></a>
 </p>
 
-### Blockchain / Web3
+### Blockchain & Web3
 
 <p align="left">
     <a href="https://ethereum.org/" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg"
             width="36" height="36" alt="Ethereum" /></a> <a href="https://soliditylang.org/" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/solidity/8B949E"
+            src="https://cdn.simpleicons.org/solidity/1f2328/e6edf3"
             width="36" height="36" alt="Solidity" /></a>
 </p>
 
@@ -167,7 +167,7 @@
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg"
             width="36" height="36" alt="Arduino" /></a> <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/stmicroelectronics/8B949E"
+            src="https://cdn.simpleicons.org/stmicroelectronics/1f2328/e6edf3"
             width="36" height="36" alt="STM32" /></a>
 </p>
 
@@ -178,13 +178,13 @@
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
             width="36" height="36" alt="Windows" /></a> <a href="https://www.apple.com/macos" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/apple/8B949E"
+            src="https://cdn.simpleicons.org/apple/1f2328/e6edf3"
             width="36" height="36" alt="macOS" /></a> <a href="https://www.linux.org/" target="_blank"
         rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
             width="36" height="36" alt="Linux" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/gnubash/8B949E"
+            src="https://cdn.simpleicons.org/gnubash/1f2328/e6edf3"
             width="36" height="36" alt="Bash" /></a>
 </p>
 
@@ -217,17 +217,20 @@
 
 <i>XP (Extreme Programming), Scrum, Kanban</i>
 
-### Cybersecurity
+### Networking & Cybersecurity
 
 <p align="left">
     <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/kalilinux/8B949E"
+            src="https://cdn.simpleicons.org/kalilinux/1f2328/e6edf3"
             width="36" height="36" alt="Kali Linux" /></a> <a href="https://www.wireshark.org/" target="_blank"
         rel="noreferrer"><img
             src="https://cdn.simpleicons.org/wireshark/1679A7"
-            width="36" height="36" alt="Wireshark" /></a> <a href="https://owasp.org/" target="_blank"
+            width="36" height="36" alt="Wireshark" /></a> <a href="https://www.gns3.com/" target="_blank"
         rel="noreferrer"><img
-            src="https://cdn.simpleicons.org/owasp/8B949E"
+            src="https://raw.githubusercontent.com/GNS3/gns3-gui/master/resources/images/gns3_icon_128x128.png"
+            width="36" height="36" alt="GNS3" /></a> <a href="https://owasp.org/" target="_blank"
+        rel="noreferrer"><img
+            src="https://cdn.simpleicons.org/owasp/1f2328/e6edf3"
             width="36" height="36" alt="OWASP" /></a> <a href="https://portswigger.net/burp" target="_blank"
         rel="noreferrer"><img
             src="https://cdn.simpleicons.org/burpsuite/FF6633"
