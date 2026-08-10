@@ -84,7 +84,7 @@
             width="36" height="36" alt="Flutter" /></a>
 </p>
 
-### Back-end & Database
+### Backend & Database
 
 <p align="left">
     <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img
