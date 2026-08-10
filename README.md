@@ -1,16 +1,16 @@
 ## 👋 Hi there
 
 <p align="center">
-    <a href="#"><img src="terminal.svg" alt="Terminal" width="840" height="265" /></a>
+    <picture><img src="terminal.svg" alt="Terminal" width="840" height="265" /></picture>
 </p>
 
 ### About me
 - 🎓 Computer Engineer — MSc with Honours (110L) @ University of Salerno
-- 🔬 Research Fellow @ CORE Lab (DIEM) — Hypergraph robustness analysis
+- 🔬 Research Fellow @ CORE Lab (DIEM) — hypergraph robustness analysis
 - 🍎 Help Teacher @ Swift App Development Bootcamp
 - 🧭 Tech Lead across multiple development teams
 - 🏆 1st place & Software Quality Award @ RobotCup@School 2021
-- 🏆 1st place @ Machine Learning Competition — Binary Gender Classifier (99.50% Accuracy)
+- 🏆 1st place @ Machine Learning Competition — **custom Convolutional Neural Network architecture**, reaching 99.50% accuracy and 99.64% AUC
 - 🔭 Currently building security tools, apps & scalable platforms
 - 💬 Ask me about **⚙️ Software Engineering & 🔐 Cybersecurity**
 
