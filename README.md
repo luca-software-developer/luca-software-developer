@@ -10,7 +10,7 @@
 - 🍎 Help Teacher @ Swift App Development Bootcamp
 - 🧭 Tech Lead across multiple development teams
 - 🏆 1st place & Software Quality Award @ RobotCup@School 2021
-- 🏆 1st place @ Machine Learning Competition — **custom Convolutional Neural Network architecture**, reaching 99.50% accuracy and 99.64% AUC
+- 🏆 1st place @ Machine Learning Competition — custom Convolutional Neural Network architecture, reaching 99.50% accuracy and 99.64% AUC
 - 🔭 Currently building security tools, apps & scalable platforms
 - 💬 Ask me about **⚙️ Software Engineering & 🔐 Cybersecurity**
 
