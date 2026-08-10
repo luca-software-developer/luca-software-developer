@@ -179,7 +179,7 @@
             width="36" height="36" alt="Windows" /></a> <a href="https://www.apple.com/macos" target="_blank"
         rel="noreferrer"><img
             src="https://cdn.simpleicons.org/apple/1f2328/e6edf3"
-            width="36" height="36" alt="macOS" /></a> <a href="https://www.kernel.org/" target="_blank"
+            width="36" height="36" alt="macOS" /></a> <a href="https://www.linuxfoundation.org/" target="_blank"
         rel="noreferrer"><img
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
             width="36" height="36" alt="Linux" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank"
