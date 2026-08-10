@@ -5,7 +5,7 @@
 </p>
 
 ### About me
-- 🎓 Computer Engineer — BSc with Honours (110L) @ University of Salerno
+- 🎓 Computer Engineer — MSc with Honours (110L) @ University of Salerno
 - 🔬 Research Fellow @ CORE Lab (DIEM) — Hypergraph robustness analysis
 - 🍎 Help Teacher @ Swift App Development Bootcamp
 - 🧭 Tech Lead across multiple development teams
